@@ -1,0 +1,3 @@
+site_url,page_url,s3_path,cloudfront_distribution_id
+https://examplewordpresssite.com,/contact-us/,exm-01,E400000000000
+https://examplewordpresssite2.com,/contact-us/,exm-02,E400000000001
